@@ -8,7 +8,7 @@ export const profile = {
   email: 'osafolabi@oauife.edu.ng',
   office: 'Room 152, Department of Political Science, Obafemi Awolowo University, Ile-Ife, Nigeria',
   officeHours: '8:00 am – 6:00 pm',
-  bio: 'Professor Olugbemiga Samuel Afolabi is a scholar of democratic, electoral and security studies whose work examines the institutions, ideas and public policies shaping governance in Africa. He serves as Chair and Head of the Department of Political Science at Obafemi Awolowo University, Ile-Ife.',
+  bio: 'Professor Olugbemiga Samuel Afolabi is a scholar of democratic, electoral and security studies and Chair of Political Science at Obafemi Awolowo University. Alongside his academic career, he brings more than 20 years of applied experience in evaluation, governance, democracy, GBV and humanitarian programming.',
   links: {
     university: 'https://pol.oauife.edu.ng/Lecturers/dr-olugbemiga-samuel-afolabi/',
     scholar: 'https://scholar.google.com/citations?user=K4ZVItsAAAAJ&hl=en',
